@@ -22,7 +22,6 @@ I also worked on recreating the logical Diagram which includes the actual AWS Se
 [Lucid Charts Share Link](https://lucid.app/lucidchart/6f7627c3-f57c-4940-8983-48fbb14fd30d/edit?viewport_loc=494%2C1252%2C2204%2C1060%2CqGTxC2gO0-Zj&invitationId=inv_9c3b6aa2-b321-4e8b-81c0-5a93bdb0796e
 )
 
-
     Next, I made sure in getting my cloud environment set up. The basic cloud environment setup I did is as follows:
 
 ### **Create an Admin User**
@@ -34,8 +33,6 @@ I also worked on recreating the logical Diagram which includes the actual AWS Se
 - I also have `AWS CLI` installed (check this [article](https://medium.com/aws-in-plain-english/how-to-launch-an-ec2-instance-in-aws-15db3b22101d) for the installation process on ***Ubuntu***)
 
 ![AWS CLI](/_docs/week_0/AWS_CLI.png)
-
-
 
 ### Create a Budget and Billing Alarm
 
